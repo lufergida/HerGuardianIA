@@ -1,4 +1,4 @@
-<em> # HerGuardianIA — Plataforma de Protección Contra la Violencia Digital </em>
+# HerGuardianIA — Plataforma de Protección Contra la Violencia Digital # 
 
 HerGuardianIA es una plataforma diseñada para acompañar, proteger y orientar a mujeres frente a situaciones de ciberacoso, chantaje emocional, difusión de contenido íntimo, y otras formas de violencia digital.
 Este MVP fue desarrollado para una hackathon, integrando un frontend funcional y módulos simulados de inteligencia artificial que permiten:
@@ -31,6 +31,7 @@ Este MVP fue desarrollado para una hackathon, integrando un frontend funcional y
 
 ## 4. Estructura del proyecto
 
+```txt
 📦 herguardiania
  ┣ 📂 public
  ┃ ┗ favicon.ico
@@ -46,6 +47,7 @@ Este MVP fue desarrollado para una hackathon, integrando un frontend funcional y
  ┃ ┣ App.jsx
  ┃ ┗ main.jsx
  ┗ README.md
+```
 
 
 ## 5. Mejoras futuras
