@@ -7,6 +7,7 @@ import Dashboard from './views/Dashboard/Dashboard.jsx';
 import Resources from "./views/Resources/Resources.jsx";  
 import Assistant from "./views/Assistant/Assistant.jsx";
 import ContentModerator from './views/ContentModerator/ContentModerator.jsx';
+  import Help from './views/Help/Help.jsx'; 
 
 
 export default function App() {
@@ -19,6 +20,7 @@ export default function App() {
       <Route path="/dashboard" element={<Dashboard />} />
       <Route path="/assistant" element={<Assistant />} />
       <Route path="/moderation" element={<ContentModerator />} />
+      <Route path="/help" element={<Help />} />
     </Routes>
   );
 }
